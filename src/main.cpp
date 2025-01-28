@@ -9,8 +9,8 @@
 #include <algorithm>
 using namespace std;
 
-#include "sistema.hpp"
-#include "usuario.hpp"
+#include "..src/sistema.hpp"
+#include "..src/usuario.hpp"
 // Função principal
 int main() {
     Sistema sistema;
