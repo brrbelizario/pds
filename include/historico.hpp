@@ -1,7 +1,7 @@
 #ifndef HISTORICO_HPP
 #define HISTORICO_HPP
 
-#include "Transacao.hpp"  // Certifique-se de incluir a classe Transacao
+#include "Transacao.hpp"  
 #include <vector>
 #include <string>
 #include <fstream>

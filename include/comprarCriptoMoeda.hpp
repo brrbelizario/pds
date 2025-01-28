@@ -4,8 +4,8 @@
 #include <iostream>
 #include <iomanip>
 #include <string>
-#include "Historico.hpp" // Inclua a classe Historico para adicionar transações
-#include "Logger.hpp"    // Inclua a classe Logger para registrar logs
+#include "Historico.hpp" 
+#include "Logger.hpp"    
 
 class ComprarCriptoMoeda {
 private:
